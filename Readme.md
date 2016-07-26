@@ -21,11 +21,11 @@ module.exports = {
 
     .....
 
-    plugins: {
+    plugins: [{
       "hyperpower-plus": {
         "shake.enabled": false
       }
-    }
+    }]
   }
 }
 ```
