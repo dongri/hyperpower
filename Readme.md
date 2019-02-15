@@ -38,3 +38,6 @@ Based on [`power-mode`](https://atom.io/packages/power-mode) and
 ## License
 
 MIT
+
+# devtoken
+[![hyperpower-plus Dev Token](https://badge.devtoken.rocks/hyperpower-plus)](https://devtoken.rocks/package/hyperpower-plus)
